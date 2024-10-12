@@ -10,7 +10,7 @@ I'm a passionate **Computer Science student** at **SRM Institute of Science and 
 <div align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Language-C++-orange?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Machine%20Learning-yellow?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Machine%20Learning-yellow?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cloud-Oracle-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
   <img src="https://img.shields.io/badge/AI%20Tools-Scikit--learn-green?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
