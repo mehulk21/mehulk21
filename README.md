@@ -1,4 +1,4 @@
-# Hi there, I'm Mehul! 👋
+# Hey folks, I'm Mehul! 👋
 
 ### Software Development, Machine Learning, Artificial Intelligence | Building Innovative Software Solutions 💻
 
