@@ -36,7 +36,7 @@ I'm a passionate **Computer Science student** at **SRM Institute of Science and 
 ---
 
 ## 📄 Resume:
-If you’re interested in exploring my background and experience in detail, you can view my resume [**here**]([https://drive.google.com/drive/folders/1fUPc3gM5BZk9PoYj1RjCOu_65mL5XmKE]).
+If you’re interested in exploring my background and experience in detail, you can view my resume [**here**](https://drive.google.com/file/d/1uYQXLbEmbnsxobECSveWVahJ9D4_g2EQ/view?usp=drive_link).
 
 ---
 
